@@ -1,0 +1,17 @@
+starea 0
+starea 2
+starea 3 - se alege programul de curatare
+starea 2
+starea 9
+starea 11
+starea 12
+starea 16
+starea 6
+starea 2
+starea 2
+starea 6
+starea 2
+starea 15
+starea 12
+starea 2
+starea 0
